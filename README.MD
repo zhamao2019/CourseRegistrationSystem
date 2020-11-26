@@ -5,7 +5,7 @@ A web application based on PHP, JavaScript and MySQL database
 
 ### Sign Up Page
 Validation: all the fields are required, and need to enter the right format. Otherwise will displays the error messages next to the invalid fields.
-
+![sign up](https://github.com/zhamao2019/CourseRegistrationSystem/blob/master/pic/signup.png)
 
 ### Login Page
 ![Login](https://github.com/zhamao2019/CourseRegistrationSystem/blob/master/pic/userlogin.png)
